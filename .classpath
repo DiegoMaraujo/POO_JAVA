@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Semana2/Semana2/Animal/src"/>
+	<classpathentry kind="src" path="Semana2/Semana2/Cachorro/src"/>
+	<classpathentry kind="src" path="Semana3/TesteHeranca/src"/>
+	<classpathentry kind="src" path="Semana3/TestePolimorfismo1/src"/>
+	<classpathentry kind="src" path="Semana3/TestePolimorfismo2/src"/>
+	<classpathentry kind="src" path="Semana4/Generics"/>
+	<classpathentry kind="src" path="Semana4/HashtableExample/src"/>
+	<classpathentry kind="src" path="Semana4/TesteHashTable/src"/>
+	<classpathentry kind="src" path="Semana5/Details/src"/>
+	<classpathentry kind="src" path="Semana5/MapExample/src"/>
+	<classpathentry kind="src" path="Semana5/TestHashMap/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploExcept1/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploExcept2/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploExcept3/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploExcept4/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploExcept5/src"/>
+	<classpathentry kind="src" path="Semana6/ExemploThrow/src"/>
+	<classpathentry kind="src" path="Semana6/TestMyException/src"/>
+	<classpathentry kind="src" path="Semana7/ClienteTCP/src"/>
+	<classpathentry kind="src" path="Semana7/ClienteUDP/src"/>
+	<classpathentry kind="src" path="Semana7/CriaThread/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploApiStream/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploMultiThread/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploSerializaDeserializa/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploStream1/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploStream2/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploStream3/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploStream4/src"/>
+	<classpathentry kind="src" path="Semana7/ExemploStream5/src"/>
+	<classpathentry kind="src" path="Semana7/ServidorTCP/src"/>
+	<classpathentry kind="src" path="Semana7/ServidorUDP/src"/>
+	<classpathentry kind="src" path="Semana7/ThreadContadora/src"/>
+	<classpathentry kind="output" path="Semana2/Semana2/Animal/build/classes"/>
+</classpath>
